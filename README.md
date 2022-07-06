@@ -11,7 +11,7 @@ Member 3 - IT20386436 (PulasthiTharaka)
 
 Member 4 - IT20121242 (YomalDulanjana)
 
-Brief Description of Project - In here we have implemented mobile application which has the capability of managing the bike service center functionaliyies in an automated way.
+Brief Description of Project - In here we have implemented a mobile application which has the capability of managing the bike service center functionalities in an automated way.
 
 Technologies used - Java , Firebase , Android Studio
 
