@@ -1,10 +1,19 @@
 # Moto Service App
-Mobile App for Bike Service Center
+Mobile App for a Bike Service Center
 
 - This is our Mobile Application Development group project for 2nd Year 2nd Semester in SLIIT.
-- This is a motor bike service app.
-- From this app motor bike owners can Register to the app and get service from the app.
 
+Group Leader - IT20117146 (DimagiPerera)
+
+Member 2 - IT20016616 (IshanNadeera)
+
+Member 3 - IT20386436 (PulasthiTharaka)
+
+Member 4 - IT20121242 (YomalDulanjana)
+
+Brief Description of Project - In here we have implemented mobile application which has the capability of managing the bike service center functionaliyies in an automated way.
+
+Technologies used - Java , Firebase , Android Studio
 ---
 
 Here are some few Screenshots of the app.
